@@ -1,2 +1,2 @@
 # instaseed
-WebSite for Annual Event of ECell NSIT
+Website for Annual Event of ECell NSIT
